@@ -23,12 +23,12 @@
 # url : https://thedereck.github.io
 # email : thedereck@thedereck.com
 # author : Dereck Curry
-name : gh-pages-blog
-brand : gh-pages-blog
-description : The Official gh-pages-blog GitHub Page
-url : https://thedereck.github.io/gh-pages-blog
-email : thedereck@thedereck.com
-author: Dereck Curry
+name : docker-warriors-blog
+brand : docker-warriors-blog
+description : china docker contributer group daily coding report
+url : http://xiaods.github.io/Docker-Warriors
+email : xiaods@gmail.com
+author: Deshi Xiao
 
 
 # The following is a list of files to exclude from inclusion in the
@@ -337,8 +337,8 @@ github_projects :
   header : GitHub Projects
   projects :
   - project :
-    name : gh-pages-blog
-    url : https://github.com/thedereck/gh-pages-blog
+    name : docker-warriors-blog
+    url :  https://github.com/xiaods/Docker-Warriors.git
 
 
 # These are links to other websites outside of the blog that are not part of
@@ -364,11 +364,17 @@ github_projects :
 #       name : Lowcountry Blues Club
 #       url : http://lowcountrybluesclub.blogspot.com
 external_links :
-  header : More Great gh-pages-blog Sites
+  header : More Great Docker Sites
   links :
     - link :
-      name : The Dereck
-      url: https://thedereck.github.io
+      name : DaoCloud
+      url: https://daocloud.io
+    - link :
+      name : DockOne
+      url: https://dockone.io
+    - link :
+      name : alauda.cn
+      url: https://alauda.cn
 
 
 # These are the Bootstrap settings. These Bootstrap settings will control both
@@ -549,7 +555,7 @@ rss :
 #   show_comment_count : false
 disqus :
   enabled : false
-  shortname : myshortname
+  shortname : xds2000
   show_comment_count : true
 
 
@@ -574,4 +580,4 @@ analytics :
   enabled : false
   google_analytics :
     enabled : false
-    tracking_id : UA-1234567
+    tracking_id : UA-46516033-2
