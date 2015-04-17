@@ -11,3 +11,8 @@ Name | GitHub ID | Location | Organisation
 何思玫|[dalanlan](https://github.com/dalanlan)|杭州|浙江大学
 冯明振|[fmzhen](https://github.com/fmzhen)|杭州|浙江大学
 仇臣|[cheney90](https://github.com/cheney90)|杭州|浙江大学
+
+
+
+中国Docker开发者战队微信群采用邀请制，无论你有无实际开发经验，只要有兴趣，就
+可以来申请。微信号码：coderxiao ，老肖随时欢迎。:-)
