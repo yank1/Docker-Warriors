@@ -10,4 +10,4 @@ WORKDIR /app
 COPY . /app/
 EXPOSE 4000
 
-ENTRYPOINT ["jekyll", "serve", "--watch", "--drafts", "--baseurl", ""]
+CMD ["jekyll", "serve", "--watch", "--drafts", "--baseurl", ""]
