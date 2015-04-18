@@ -18,8 +18,9 @@ Name | GitHub ID | Location | Organisation
 可以来申请。微信号码：coderxiao ，老肖随时欢迎。:-)
 
 
-docker build xiaods/dw .
-docker run --rm -p 4000:4000 xiaods/dw
+* docker build xiaods/dw .
+
+* docker run --rm -p 4000:4000 xiaods/dw
 
 then you can visit with url: http://localhost:4000/
 
